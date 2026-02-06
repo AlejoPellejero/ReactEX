@@ -1,0 +1,23 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`MyAwesomeApp > Should match snapshot 1`] = `
+<div>
+  <h1>
+    Fernando
+  </h1>
+  <h3>
+    Herrera
+  </h3>
+  <p>
+    Zelda,Mario,Metroid
+  </p>
+  <p>
+    Active
+  </p>
+  <p
+    style="color: blue; background-color: lightgray; padding: 10px;"
+  >
+    {"street":"123 Main St","city":"Madrid","country":"Spain"}
+  </p>
+</div>
+`;
